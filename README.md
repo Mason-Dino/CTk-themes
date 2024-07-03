@@ -40,12 +40,12 @@ You can use this repository for your own projects that use CustomTkinter python 
 
 ## Themes
 ### Choices
-- Orange
-- Purple
-- Red
-- Teal
-- Yellow
-- Grey
+- [Orange](https://github.com/Mason-Dino/CTk-themes?tab=readme-ov-file#orange)
+- [Purple](https://github.com/Mason-Dino/CTk-themes?tab=readme-ov-file#purple)
+- [Red](https://github.com/Mason-Dino/CTk-themes?tab=readme-ov-file#red)
+- [Teal](https://github.com/Mason-Dino/CTk-themes?tab=readme-ov-file#teal)
+- [Yellow](https://github.com/Mason-Dino/CTk-themes?tab=readme-ov-file#yellow)
+- [Grey](https://github.com/Mason-Dino/CTk-themes?tab=readme-ov-file#grey)
 
 ### Orange
 Below is the orange color theme both in the dark and light color mode.
