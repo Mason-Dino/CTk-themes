@@ -92,7 +92,7 @@
         "corner_radius": 6,
         "fg_color": ["#17979E", "#10676B"],
         "button_color": ["#0A7E85", "#064B4E"],
-        "button_hover_color": ["#064B4E", "#084144"],
+        "button_hover_color": ["#096D72", "#084144"],
         "text_color": ["gray98", "#DCE4EE"],
         "text_color_disabled": ["gray78", "gray68"]
     },
