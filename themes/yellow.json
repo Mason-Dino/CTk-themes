@@ -22,7 +22,7 @@
         "corner_radius": 6,
         "border_width": 0,
         "fg_color": ["#F9BD6E", "#FBB04E"],
-        "hover_color": ["#AD2D4F", "#8F1C3A"],
+        "hover_color": ["#E3A14B", "#D29341"],
         "border_color": ["#3E454A", "#949A9F"],
         "text_color": ["gray98", "#DCE4EE"],
         "text_color_disabled": ["gray78", "gray68"]
@@ -45,7 +45,7 @@
         "border_width": 3,
         "fg_color": ["#F9BD6E", "#FBB04E"],
         "border_color": ["#3E454A", "#949A9F"],
-        "hover_color": ["#AD2D4F", "#8F1C3A"],
+        "hover_color": ["#E3A14B", "#D29341"],
         "checkmark_color": ["#DCE4EE", "gray90"],
         "text_color": ["gray10", "#DCE4EE"],
         "text_color_disabled": ["gray60", "gray45"]
@@ -67,7 +67,7 @@
         "border_width_unchecked": 3,
         "fg_color": ["#F9BD6E", "#FBB04E"],
         "border_color": ["#3E454A", "#949A9F"],
-        "hover_color":["#AD2D4F", "#8F1C3A"],
+        "hover_color":["#E3A14B", "#D29341"],
         "text_color": ["gray10", "#DCE4EE"],
         "text_color_disabled": ["gray60", "gray45"]
     },
@@ -86,13 +86,13 @@
         "fg_color": ["#939BA2", "#4A4D50"],
         "progress_color": ["gray40", "#AAB0B5"],
         "button_color": ["#F9BD6E", "#FBB04E"],
-        "button_hover_color": ["#AD2D4F", "#8F1C3A"]
+        "button_hover_color": ["#E3A14B", "#D29341"]
     },
     "CTkOptionMenu": {
         "corner_radius": 6,
         "fg_color": ["#F9BD6E", "#FBB04E"],
-        "button_color": ["#AD2D4F", "#8F1C3A"],
-        "button_hover_color": ["#8F1C3A", "#63021C"],
+        "button_color": ["#E3A14B", "#D29341"],
+        "button_hover_color": ["#D29341", "#AE772F"],
         "text_color": ["gray98", "#DCE4EE"],
         "text_color_disabled": ["gray78", "gray68"]
     },
@@ -118,7 +118,7 @@
         "border_width": 2,
         "fg_color": ["#979DA2", "gray29"],
         "selected_color": ["#F9BD6E", "#FBB04E"],
-        "selected_hover_color": ["#AD2D4F", "#8F1C3A"],
+        "selected_hover_color": ["#E3A14B", "#D29341"],
         "unselected_color": ["#979DA2", "gray29"],
         "unselected_hover_color": ["gray70", "gray41"],
         "text_color": ["gray98", "#DCE4EE"],
