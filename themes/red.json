@@ -1,7 +1,9 @@
 {
     "_comments": {
         "Made-By": "Mason-Dino",
-        "More-Themes": "https://github.com/Mason-Dino/CTk-themes"
+        "Theme": "red",
+        "More-Themes": "https://github.com/Mason-Dino/CTk-themes",
+        "Done": true
     },
     "CTk": {
         "fg_color": ["gray92", "gray14"]
