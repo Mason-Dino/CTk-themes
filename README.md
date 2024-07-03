@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://source.unsplash.com/random/256x256" alt="Logo" width="80" height="80">
+<img src="logo.png" alt="Logo" width="100" height="100">
 </a>
 <h3 align="center">CustomTkinter Themes</h3>
 <p align="center">
