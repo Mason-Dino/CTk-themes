@@ -47,6 +47,30 @@ You can use this repository for your own projects that use CustomTkinter python 
 - Yellow
 - Grey
 
+### Orange
+Below is the orange color theme both in the dark and light color mode.
+<img src="pictures/orange.png">
+
+### Purple
+Below is the purple color theme both in the dark and light color mode.
+<img src="pictures/purple.png">
+
+### Red
+Below is the red color theme both in the dark and light color mode.
+<img src="pictures/red.png">
+
+### Teal
+Below is the teal color theme both in the dark and light color mode.
+<img src="pictures/teal.png">
+
+### Yellow
+Below is the yellow color theme both in the dark and light color mode.
+<img src="pictures/yellow.png">
+
+### Grey
+Below is the grey color theme both in the dark and light color mode.
+<img src="pictures/grey.png">
+
  ## Contributing
 
 If you would like to make your own theme or have an idea for a color of a theme please make issue with a enhancement tag or fork the project with your color theme!
